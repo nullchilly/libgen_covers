@@ -61,7 +61,7 @@ def download_covers(data):
             result = future.result()
 
 with mysql_conn.cursor() as cursor:
-    cursor.execute("SELECT COUNT(*) as total_rows FROM updated where Title LIKE '%Harry Potter%'")
+    cursor.execute("SELECT COUNT(*) as total_rows FROM updated")
     total_rows = cursor.fetchone()['total_rows']
 
 # Insert data from MySQL to MongoDB in chunks
