@@ -1,3 +1,6 @@
+mirrors = ["libgen.is", "libgen.rs", "libgen.st"]
+cid = 2
+
 import os
 import pymysql
 import requests
@@ -15,7 +18,8 @@ mysql_conn = pymysql.connect(
 )
 
 # Function to download cover image
-def download_cover(url, filename):
+def download_cover(url, filename, retry=False):
+    global cid
     headers = {
         'Accept': 'image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8',
         'Accept-Language': 'en-US,en;q=0.9,vi;q=0.8',
@@ -24,7 +28,7 @@ def download_cover(url, filename):
         'Cookie': 'lg_topic=libgen',
         'DNT': '1',
         'Pragma': 'no-cache',
-        'Referer': 'https://libgen.is/',
+        'Referer': f'https://{mirrors[cid]}/',
         'Sec-Fetch-Dest': 'image',
         'Sec-Fetch-Mode': 'no-cors',
         'Sec-Fetch-Site': 'same-origin',
@@ -38,6 +42,9 @@ def download_cover(url, filename):
         print(f"{filename} already exists. Skipping download.")
         return True
     response = requests.get(url, headers=headers, stream=True)
+    if response.status_code == 503 and not retry:
+        cid = (cid + 1) % 3
+        download_cover(url, filename, retry=True)
     if response.status_code == 200:
         # Get the ID from the filename
         folder_name = os.path.dirname(filename)
@@ -56,7 +63,8 @@ def download_cover(url, filename):
 def download_covers(data):
     with ThreadPoolExecutor(max_workers=20) as executor:  # Adjust max_workers as needed
         # print(os.path.dirname(row['Coverurl']))
-        futures = [executor.submit(download_cover, "https://libgen.is/covers/" + row['Coverurl'], f"{os.path.dirname(row['Coverurl'])}/{os.path.basename(row['Coverurl'])}") for row in data]
+        global cid
+        futures = [executor.submit(download_cover, f"https://{mirrors[cid]}/covers/" + row['Coverurl'], f"{os.path.dirname(row['Coverurl'])}/{os.path.basename(row['Coverurl'])}") for row in data]
         for future in as_completed(futures):
             result = future.result()
 
@@ -77,7 +85,6 @@ with mysql_conn.cursor() as cursor:
         # Modify cover_url in the data
         for row in data:
             pass
-            # row['Coverurl'] = "https://libgen.is/covers/" + row['Coverurl']
         # Download covers
         download_covers(data)
         print(f"Downloaded {min(offset + chunk_size, total_rows)} out of {total_rows} rows")
