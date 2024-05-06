@@ -1,0 +1,463 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+
+
+<title>Ошибка 404 - Страница не найдена - Soft.OSzone.net</title>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
+<meta name="description" content="Soft.OSzone.net" />
+<meta name="keywords" content="Soft.OSzone.net" />
+<meta name="Robots" content="index,follow" />
+<link href="/css/style2.css" rel="stylesheet" type="text/css" />
+<link href="/css/rater2.css" rel="stylesheet" type="text/css" />
+<script src="/js/jquery.js" type="text/javascript"></script>
+<script src="/js/scripts2.js" type="text/javascript"></script>
+<script src="/js/loadingbox.js" type="text/javascript"></script>
+</head>
+
+<body>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td>
+      <div class="t_menu_a"><div class="t_menu_b"><div class="t_menu_c"><a href="http://www.oszone.net/2/News">Новости</a></div></div></div>
+      <div class="t_menu_a"><div class="t_menu_b"><div class="t_menu_c"><a href="http://www.oszone.net/100/">Видео</a></div></div></div>
+      <div class="t_menu_a"><div class="t_menu_b"><div class="t_menu_c"><a href="http://www.oszone.net/1/Windows">Microsoft</a></div></div></div>
+      <div class="t_menu_a"><div class="t_menu_b"><div class="t_menu_c"><a href="http://www.oszone.net/3/Hardware">Hardware</a></div></div></div>
+      <div class="t_main_menu_a"><div class="t_main_menu_b"><div class="t_main_menu_c"><a href="http://soft.oszone.net/">Программы</a></div></div></div>
+      <div class="t_menu_a"><div class="t_menu_b"><div class="t_menu_c"><a href="http://www.oszone.net/5/Databases">СУБД</a></div></div></div>
+      <div class="t_menu_a"><div class="t_menu_b"><div class="t_menu_c"><a href="http://forum.oszone.net/">Форум</a></div></div></div>
+      <div class="t_menu_a"><div class="t_menu_b"><div class="t_menu_c"><a href="http://wiki.oszone.net/">Wiki</a></div></div></div>
+    </td>
+    <td>
+      <div class="t_srch_a"><div class="t_srch_b"><div class="t_srch_c">
+        <form action="/search/" method="get">
+          <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <tr>
+              <td class="t_srch">Поиск на сайте:</td>
+              <td style="padding-top:3px; vertical-align:top">
+                <input type="text" name="q" value="" style="border:1px solid #e4e9ef; font-size:11px; color:#5a5a5a; height:13px; padding-left:3px; padding-right:3px; width:130px;" />
+              </td>
+              <td style="padding:3px 0 0 3px; vertical-align:center" width="22"><a href="/advanced-search/" title="Расширенный поиск"><img src="http://www.oszone.net/figs/binoculars.gif" width="22" height="13" alt="Расширенный поиск" border="0" /></a></td>
+              <td id="search_but"><input type="image" src="/img/2/but-search.gif" alt="Поиск" /><br></td>
+            </tr>
+          </table>
+        </form>
+      </div></div></div>
+    </td>
+  </tr>
+</table>
+<div id="top">
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td id="logo" width="268"><a href="http://www.oszone.net"><img src="/img/2/logo.gif" alt="OSzone.net" width="268" height="62" border="0" /></a></td>
+           <td class="banner" align="left">&nbsp;&nbsp;&nbsp;<noindex>
+<script type="text/javascript"><!--
+google_ad_client = "pub-6017219146490129";
+/* 728x90, создано 27.12.09 */
+google_ad_slot = "8003602676";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</noindex></a></td>
+    </tr>
+  </table>
+</div>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td id="leftcol">
+               <div class="b_blue_a"><div class="b_blue_b"><div class="b_blue_c"><img src="/img/2/spacer.gif" height="5" width="1" alt=" " /></div></div></div>
+           <div class="b_content">
+   
+      <div class="block-content">
+
+             <div class="loginnav"><a href="/login/">Вход</a></div>
+          <div class="loginnav"><a href="/signup/">Регистрация</a></div>
+        
+
+      </div>
+    </div> 
+          <div class="b_end-foot"><img src="/img/2/spacer.gif" height="1" width="1" alt=" " /></div>
+              
+              
+               <div class="nav_block_a"><div class="nav_block_b">
+        <div class="nav_razdel"><a href="/">КАТЕГОРИИ ПРОГРАММ</a></div>
+        
+	<div class="nav"><a href="/cat/7/">Система</a> <span>(1357)</span></div>
+	<div class="nav"><a href="/cat/1/">Безопасность</a> <span>(482)</span></div>
+	<div class="nav"><a href="/cat/5/">Интернет и сети</a> <span>(891)</span></div>
+	<div class="nav"><a href="/cat/6/">Мультимедиа</a> <span>(567)</span></div>
+	<div class="nav"><a href="/cat/3/">Графика</a> <span>(455)</span></div>
+	<div class="nav"><a href="/cat/12/">Каталогизаторы</a> <span>(59)</span></div>
+	<div class="nav"><a href="/cat/10/">Работа с текстом</a> <span>(266)</span></div>
+	<div class="nav"><a href="/cat/2/">Офисные утилиты</a> <span>(576)</span></div>
+	<div class="nav"><a href="/cat/140/">Portable</a> <span>(81)</span></div>
+	<div class="nav"><a href="/cat/4/">Игры</a> <span>(128)</span></div>
+	<div class="nav"><a href="/cat/11/">Русификаторы</a> <span>(50)</span></div>
+	<div class="nav"><a href="/cat/8/">Прочие утилиты</a> <span>(372)</span></div>
+
+        <br style="line-height: 5px;" />
+        <div class="list_doc"><a href="/cat/9/">Документация OSzone</a></div>
+        <div class="razdelitel"><img src="/img/2/spacer.gif" alt=" " width="1" height="1" /></div>
+        <br style="line-height: 5px;" />
+        <div class="list_rat"><a href="/stats/">Статистика лучших</a></div>
+        <br style="line-height: 5px;" />
+        <div class="list_add"><a href="/add-soft/">Добавить программу</a></div>
+
+              </div></div>
+              <div class="nav_end-foot"><img src="/img/2/spacer.gif" height="1" width="1" alt=" " /></div>
+
+      <div class="but"><a href="/recommended/"><img src="/img/2/but-recommend.jpg" alt="Рекомендуемые пользователями программы" width="210" height="52" border="0" /></a></div>
+      <div><a href="/our-choice/"><img src="/img/2/but-ourchoise.jpg" alt="Наш выбор" width="210" height="52" border="0" /></a></div>
+      <br />
+      <div class="nav_block_a"><div class="nav_block_b">
+
+        <div class="nav_razdel"><a href="http://www.oszone.net/2/News">НОВОСТИ</a></div>
+        <div class="nav"><a href="http://www.oszone.net/4479/News_Microsoft">Новости Microsoft</a></div>
+        <div class="nav"><a href="http://www.oszone.net/4480/News_Hardware">Новости Hardware</a></div>
+        <div class="nav"><a href="http://www.oszone.net/4481/News_IT">Новости IT</a></div>
+
+        <div class="nav_razdel"><a href="http://www.oszone.net/1/Windows">WINDOWS</a></div>
+        <div class="nav"><a href="http://www.oszone.net/8628/windows_7">Windows 7</a></div>
+        <div class="nav"><a href="http://www.oszone.net/10/Windows_Vista">Windows Vista</a></div>
+        <div class="nav"><a href="http://www.oszone.net/8/Windows_XP">Windows XP</a></div>
+        <div class="nav"><a href="http://www.oszone.net/5021/Windows_Server_2008">Windows Server 2008</a></div>
+        <div class="nav"><a href="http://www.oszone.net/9/Windows_Server_2003">Windows Server 2003</a></div>
+        <div class="nav"><a href="http://www.oszone.net/7/Windows_2000_NT">Windows 2000/NT</a></div>
+        <div class="nav"><a href="http://www.oszone.net/6/">Windows 9x/ME</a></div>
+        <div class="nav"><a href="http://unattended.oszone.net/">Автоматическая установка</a></div>
+        <div class="nav-more"><a href="javascript:void(0);" onclick="$('#more-links-windows').slideToggle('fast');">все разделы</a></div>
+        <div style="display: none;" id="more-links-windows">
+          <div class="nav"><a href="http://www.oszone.net/5681/Windows_Services">Службы Windows</a></div>
+          <div class="nav"><a href="http://www.oszone.net/14/">Реестр</a></div>
+          <div class="nav"><a href="http://bsod.oszone.net/">BSOD</a></div>
+          <div class="nav"><a href="http://www.oszone.net/4520/Security">Информационная безопасность</a></div>
+          <div class="nav"><a href="http://www.oszone.net/4068/Microsoft_Office">Microsoft Office</a></div>
+          <div class="nav"><a href="http://www.oszone.net/4249/Exchange_Server">Exchange Server</a></div>
+          <div class="nav"><a href="http://www.oszone.net/6498/ISA_Server">ISA Server</a></div>
+          <div class="nav"><a href="http://www.oszone.net/4628/Sharepoint">Sharepoint</a></div>
+          <div class="nav"><a href="http://www.oszone.net/4781/PowerShell">PowerShell</a></div>
+          <div class="nav"><a href="http://www.oszone.net/6311/">Управление ИТ-инфраструктурой</a></div>
+          <div class="nav"><a href="http://www.oszone.net/13/">Сети</a></div>
+          <div class="nav"><a href="http://www.oszone.net/15/">Разное</a></div>
+          <div class="nav"><a href="http://www.oszone.net/44/FAQ">FAQ</a></div>
+        </div>
+
+        <div class="nav_razdel"><a href="http://www.oszone.net/3/Hardware">HARDWARE</a></div>
+        <div class="nav"><a href="http://www.oszone.net/23/">Процессоры</a></div>
+        <div class="nav"><a href="http://www.oszone.net/24/">Материнские платы</a></div>
+        <div class="nav"><a href="http://www.oszone.net/25/Video">Видео</a></div>
+        <div class="nav"><a href="http://www.oszone.net/26/">Память</a></div>
+        <div class="nav-more"><a href="javascript:void(0);" onclick="$('#more-links-hardware').slideToggle('fast');">все разделы</a></div>
+        <div style="display: none;" id="more-links-hardware">
+          <div class="nav"><a href="http://www.oszone.net/27/">Охлаждение</a></div>
+          <div class="nav"><a href="http://www.oszone.net/28/">Жёсткие диски</a></div>
+          <div class="nav"><a href="http://www.oszone.net/29/">CD/DVD приводы</a></div>
+          <div class="nav"><a href="http://www.oszone.net/3946/Multimedia">Мультимедиа</a></div>
+          <div class="nav"><a href="http://www.oszone.net/30/">Корпуса и БП</a></div>
+          <div class="nav"><a href="http://www.oszone.net/31/">BIOS</a></div>
+          <div class="nav"><a href="http://www.oszone.net/3382/">Ноутбуки</a></div>
+          <div class="nav"><a href="http://www.oszone.net/32/">КПК и смартфоны</a></div>
+          <div class="nav"><a href="http://www.oszone.net/4147/">Периферия</a></div>
+          <div class="nav"><a href="http://www.oszone.net/70/">Разное</a></div>
+          <div class="nav"><a href="http://www.oszone.net/71/">FAQ</a></div>
+        </div>
+
+        <div class="nav_razdel"><a href="http://www.oszone.net/5/Databases">СУБД</a></div>
+        <div class="nav"><a href="http://www.oszone.net/4482/Microsoft_SQL_Server">MS SQL</a></div>
+        <div class="nav"><a href="http://www.oszone.net/4483/Oracle">Oracle</a></div>
+        <div class="nav"><a href="http://www.oszone.net/4484/MySQL">MySQL</a></div>
+        <div class="nav"><a href="http://www.oszone.net/4485/Other">Общие вопросы</a></div>
+      </div></div>
+              <div class="nav_end-foot"><img src="/img/2/spacer.gif" height="1" width="1" alt=" " /></div>
+            <div class="b_blue_a"><div class="b_blue_b"><div class="b_blue_c"><img src="/img/2/spacer.gif" height="5" width="1" alt=" " /></div></div></div>
+<div class="b_content">
+
+  <div class="block-name">
+    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td>Последние новости Microsoft</td>
+        <td class="rss"><a href="http://www.oszone.net/rss-subcat-4479.xml"><img src="/img/2/rss-small.gif" alt="Читать ленту новостей RSS" width="10" height="10" vspace="0" border="0" /></a></td>
+      </tr>
+    </table>
+  </div>
+  <div class="block-content">
+    				<div class="n"><span class="n_date">06.02.2011 //</span> <a href="http://www.oszone.net/14508/New_Windows_Phone_7_Developer_Tools_released_with_copy_and_paste_support">Встречайте новую версию Windows Phone 7 Developer Tools, теперь с функцией копирования и вставки</a> <a href="http://www.oszone.net/14508/New_Windows_Phone_7_Developer_Tools_released_with_copy_and_paste_support"><img src="/img/2/arrow.gif" alt="Читать далее..." width="3" height="5" vspace="1" border="0" /></a></div>
+		<div class="razdelitel"><img src="/img/2/spacer.gif" alt=" " width="1" height="1" /></div>
+				<div class="n"><span class="n_date">06.02.2011 //</span> <a href="http://www.oszone.net/14506/Microsoft_FMM">Наркокартель получал прибыль от продажи пиратского ПО Microsoft</a> <a href="http://www.oszone.net/14506/Microsoft_FMM"><img src="/img/2/arrow.gif" alt="Читать далее..." width="3" height="5" vspace="1" border="0" /></a></div>
+		<div class="razdelitel"><img src="/img/2/spacer.gif" alt=" " width="1" height="1" /></div>
+				<div class="n"><span class="n_date">06.02.2011 //</span> <a href="http://www.oszone.net/14505/Microsoft_unveils_the_top_Xbox_LIVE_games_of_2010">Microsoft огласила список лучших Xbox LIVE игр за 2010 год</a> <a href="http://www.oszone.net/14505/Microsoft_unveils_the_top_Xbox_LIVE_games_of_2010"><img src="/img/2/arrow.gif" alt="Читать далее..." width="3" height="5" vspace="1" border="0" /></a></div>
+		<div class="razdelitel"><img src="/img/2/spacer.gif" alt=" " width="1" height="1" /></div>
+				<div class="n"><span class="n_date">06.02.2011 //</span> <a href="http://www.oszone.net/14504/Windows_Small_Business_Server_2011_RC">Вышла предварительная версия Windows Small Business Server 2011</a> <a href="http://www.oszone.net/14504/Windows_Small_Business_Server_2011_RC"><img src="/img/2/arrow.gif" alt="Читать далее..." width="3" height="5" vspace="1" border="0" /></a></div>
+		<div class="razdelitel"><img src="/img/2/spacer.gif" alt=" " width="1" height="1" /></div>
+				<div class="n"><span class="n_date">06.02.2011 //</span> <a href="http://www.oszone.net/14502/February_Patch_Tuesday_three_0-days_fixed">Вторничная серия патчей от Microsoft за февраль 2011: 12 бюллетеней, 3 уязвимости типа &#039;&#039;0-day&#039;&#039;</a> <a href="http://www.oszone.net/14502/February_Patch_Tuesday_three_0-days_fixed"><img src="/img/2/arrow.gif" alt="Читать далее..." width="3" height="5" vspace="1" border="0" /></a></div>
+		<div class="razdelitel"><img src="/img/2/spacer.gif" alt=" " width="1" height="1" /></div>
+
+    <div class="more_orange"><a href="http://www.oszone.net/4479/News_Microsoft">прочитать все новости...</a></div>
+  </div>
+
+
+</div>
+<div class="b_end-foot"><img src="/img/2/spacer.gif" height="1" width="1" alt=" " /></div><div class="b_blue_a"><div class="b_blue_b"><div class="b_blue_c"><img src="/img/2/spacer.gif" height="5" width="1" alt=" " /></div></div></div>
+<div class="b_content">
+
+  <div class="block-name">
+    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td>Последние новости IT</td>
+        <td class="rss"><a href="http://www.oszone.net/rss-subcat-4481.xml"><img src="/img/2/rss-small.gif" alt="Читать ленту новостей RSS" width="10" height="10" vspace="0" border="0" /></a></td>
+      </tr>
+    </table>
+  </div>
+  <div class="block-content">
+    				<div class="n"><span class="n_date">09.02.2011 //</span> <a href="http://www.oszone.net/14540/Apple_iPad">Компания Apple начала производство нового iPad</a> <a href="http://www.oszone.net/14540/Apple_iPad"><img src="/img/2/arrow.gif" alt="Читать далее..." width="3" height="5" vspace="1" border="0" /></a></div>
+		<div class="razdelitel"><img src="/img/2/spacer.gif" alt=" " width="1" height="1" /></div>
+				<div class="n"><span class="n_date">09.02.2011 //</span> <a href="http://www.oszone.net/14538/Dell_Tablet_Notebook">Обновление модельного ряда компании Dell</a> <a href="http://www.oszone.net/14538/Dell_Tablet_Notebook"><img src="/img/2/arrow.gif" alt="Читать далее..." width="3" height="5" vspace="1" border="0" /></a></div>
+		<div class="razdelitel"><img src="/img/2/spacer.gif" alt=" " width="1" height="1" /></div>
+				<div class="n"><span class="n_date">09.02.2011 //</span> <a href="http://www.oszone.net/14535/Google_Chrome_OS">Google откладывает выпуск Chrome OS на полгода</a> <a href="http://www.oszone.net/14535/Google_Chrome_OS"><img src="/img/2/arrow.gif" alt="Читать далее..." width="3" height="5" vspace="1" border="0" /></a></div>
+		<div class="razdelitel"><img src="/img/2/spacer.gif" alt=" " width="1" height="1" /></div>
+				<div class="n"><span class="n_date">08.02.2011 //</span> <a href="http://www.oszone.net/14530/iControlPad_iPhone_iPad">iControlPad доступен для предварительного заказа</a> <a href="http://www.oszone.net/14530/iControlPad_iPhone_iPad"><img src="/img/2/arrow.gif" alt="Читать далее..." width="3" height="5" vspace="1" border="0" /></a></div>
+		<div class="razdelitel"><img src="/img/2/spacer.gif" alt=" " width="1" height="1" /></div>
+				<div class="n"><span class="n_date">08.02.2011 //</span> <a href="http://www.oszone.net/14528/GameLoft_iOS">Видео дня: игра-клон StarCraft от GameLoft для iOS</a> <a href="http://www.oszone.net/14528/GameLoft_iOS"><img src="/img/2/arrow.gif" alt="Читать далее..." width="3" height="5" vspace="1" border="0" /></a></div>
+		<div class="razdelitel"><img src="/img/2/spacer.gif" alt=" " width="1" height="1" /></div>
+
+    <div class="more_orange"><a href="http://www.oszone.net/4481/News_IT">прочитать все новости...</a></div>
+  </div>
+
+
+</div>
+<div class="b_end-foot"><img src="/img/2/spacer.gif" height="1" width="1" alt=" " /></div>
+      <div class="b_orange_a"><div class="b_orange_b"><div class="b_orange_c"><img src="/img/2/spacer.gif" height="5" width="1" alt=" " /></div></div></div>
+<div class="b_content">
+
+        <div class="block-name">
+          <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <tr>
+              <td>Полезные ссылки сайта</td>
+              <td class="rss"><a href="#"><img src="/img/2/rss-small.gif" alt="Читать ленту новостей RSS" width="10" height="10" vspace="0" border="0" /></a></td>
+            </tr>
+          </table>
+        </div>
+        <div class="block-content">
+          <div class="sm_list"><a href="http://www.oszone.net/5681/Windows_Services">Службы Windows</a></div>
+          <div class="sm_list"><a href="http://unattended.oszone.net/">Автоматическая установка</a></div>
+          <div class="sm_list"><a href="http://www.oszone.net/4327/FAQ_Windows_Vista">FAQ по Windows Vista</a></div>
+          <div class="sm_list"><a href="http://www.oszone.net/106/">FAQ по Windows XP</a></div>
+          <div class="sm_list"><a href="http://www.oszone.net/5603/tweaks">Твики реестра</a></div>
+          <div class="sm_list"><a href="http://www.oszone.net/5021/Windows_Server_2008">Windows Server 2008</a></div>
+      
+        </div>
+      
+
+</div>
+<div class="b_end-foot"><img src="/img/2/spacer.gif" height="1" width="1" alt=" " /></div>
+    </td>
+    <td id="rightcol_main"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td id="leftcol-c">
+               <noindex> <div class="info_one"><div class="info_two"><div class="info_thr">
+              <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                <tr>
+                  <td id="info_leftcol">
+                    <a href="http://soft.oszone.net/program/3930/"><img src="http://tools.oszone.net/Blast/note.png" alt="Твики реестра" width="50" height="50" border="0" align="left" />
+<span class="name">Твики реестра</span></a><br />
+Обширный сборник твиков реестра для настройки операционной системы. Более 500 твиков, инструкции, готовые reg-файлы.
+                  </td>
+                  <td class="line_razdelit"><img src="/img/2/g-razdel.gif" alt=" " width="2" height="85" /></td>
+                  <td id="info_rightcol">
+                    <a href="http://soft.oszone.net/program/11662/"><img src="http://oszone.net/user_img/vadblog/JumpReg-48x48.png" width="48" height="48"" alt="JumpReg" border="0" align="left" />
+<span class="name">JumpReg</span></a>
+<br />
+Бесплатная программа, которая упрощает и ускоряет навигацию в редакторе реестра Windows (regedit), экономя ваше время. Вставьте путь к разделу и нажмите Enter!
+                  </td>
+                </tr>
+              </table>
+            </div></div></div>
+            </noindex>
+<div class="block">
+  <div class="heading">
+    <h1 class="cat">Ошибка 404 &mdash; Страница не найдена</h1>
+    <div class="descr">
+      <a href="/">Главная</a> |
+      Ошибка 404 &mdash; Страница не найдена
+    </div>
+  </div>
+</div>
+
+<div class="b_orange_a"><div class="b_orange_b"><div class="b_orange_c"><img src="/img/2/spacer.gif" height="5" width="1" alt=" " /></div></div></div>
+<div class="b_content">
+
+<div class="block">
+<p>Запрошенная страница не найдена.</p>
+<p>Убедитесь в правильности набранного URL.</p>
+<p>Если Вы уверены, что всё верно, то <a href="http://soft.oszone.net/support/">сообщите</a>, пожалуйста, нам об этой ошибке.</p>
+</div>
+
+
+</div>
+<div class="b_end-foot"><img src="/img/2/spacer.gif" height="1" width="1" alt=" " /></div>
+          </td>
+          <td id="rightcol-c">
+            <div><noindex>
+<div align="center">
+<div align="center">
+<script type="text/javascript"><!--
+google_ad_client = "pub-6017219146490129";
+/* soft_right */
+google_ad_slot = "8709664754";
+google_ad_width = 160;
+google_ad_height = 600;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</div>
+</div>
+
+<br>
+</noindex></div>
+            <br />
+            <div class="b_blue_a"><div class="b_blue_b"><div class="b_blue_c"><img src="/img/2/spacer.gif" height="5" width="1" alt=" " /></div></div></div>
+<div class="b_content">
+
+              <div class="block-name">
+                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <tr>
+                    <td><span class="blue">ТОП-10 программ</span></td>
+                    <td class="rss"><a href="/rss/top10-soft.xml"><img src="/img/2/rss-small.gif" alt="Читать ленту новостей RSS" width="10" height="10" vspace="0" border="0" /></a></td>
+                  </tr>
+                </table>
+              </div>
+              <div class="block-content">
+                <div>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0" id="topswitchbox" class="top_a">
+                    <tr>
+                      <td id="topswitchday" class="topsoftswitch">За сегодня</td>
+                      <td id="topswitchweek" class="topsoftswitch"><a href="javascript:void(0);" onclick="switch_top10('week'); return false;">За неделю</a></td>
+                    </tr>
+                  </table>
+                </div>
+                <div class="topten" id="bl_top">
+                    1. <a href="/program/73/KLite_Codec_Pack_Full/">K-Lite Codec Pack Full 6.9.0</a>
+      <img src="/img/up_top.gif" alt="UP" width="10" height="11" title="Позиция в топе: +7" />
+    <br />  2. <a href="/program/9563/Avira_AntiVir_Personal_RU/">Avira AntiVir Personal RU 9.0.0.13</a>
+      <img src="/img/down.gif" alt="DOWN" width="9" height="9" title="Позиция в топе: -1" />
+    <br />  3. <a href="/program/2157/Daemon_Tools_Lite/">Daemon Tools Lite 4.40.2</a>
+    <br />  4. <a href="/program/5/Kaspersky_Anti_Virus/">Kaspersky Anti-Virus 2011 11.0.2.556</a>
+      <img src="/img/up_top.gif" alt="UP" width="10" height="11" title="Позиция в топе: +252" />
+    <br />  5. <a href="/program/3193/MorphVOX_Pro/">MorphVOX Pro 4.3.9</a>
+      <img src="/img/up_top.gif" alt="UP" width="10" height="11" title="Позиция в топе: +23" />
+    <br />  6. <a href="/program/3342/Excel_Viewer/">Excel Viewer 2003</a>
+      <img src="/img/up_top.gif" alt="UP" width="10" height="11" title="Позиция в топе: +78" />
+    <br />  7. <a href="/program/4289/Quick_Slide_Show/">Quick Slide Show 2.33</a>
+      <img src="/img/down.gif" alt="DOWN" width="9" height="9" title="Позиция в топе: -1" />
+    <br />  8. <a href="/program/2218/WebMoney_Keeper_Classic/">WebMoney Keeper Classic 3.9.4.0.3441</a>
+      <img src="/img/up_top.gif" alt="UP" width="10" height="11" title="Позиция в топе: +1" />
+    <br />  9. <a href="/program/3105/Adobe_Flash_Player/">Adobe Flash Player 10.2.152.26</a>
+      <img src="/img/down.gif" alt="DOWN" width="9" height="9" title="Позиция в топе: -4" />
+    <br />  10. <a href="/program/3341/Paket_obespeceniu_sovmestimosti_MS_Office_s_failami_MS_Office/">Пакет обеспечения совместимости MS Office 2000-2003 с файлами MS Office  2007-2010</a>
+      <img src="/img/up_top.gif" alt="UP" width="10" height="11" title="Позиция в топе: +34" />
+    
+                </div>
+                <div class="razdelitel"><img src="/img/2/spacer.gif" alt=" " width="1" height="1" /></div>
+                <div class="more_orange"><a href="/top-100/">посмотреть весь топ...</a></div>
+              </div>
+            
+
+</div>
+<div class="b_end-foot"><img src="/img/2/spacer.gif" height="1" width="1" alt=" " /></div>                        <br />
+            <div></div>
+            
+            <br />
+<div>
+
+</div>
+<br />
+
+            
+            
+                        <div class="b_blue_a"><div class="b_blue_b"><div class="b_blue_c"><img src="/img/2/spacer.gif" height="5" width="1" alt=" " /></div></div></div>
+<div class="b_content">
+
+              <div class="block-name"><span class="blue">Подписаться на обновления</span></div>
+              <form action="/subscribe/" method="POST">
+                <input type="hidden" name="form_name" value="subscribe_form" />
+                <div class="block-content">
+                  <div class="n_site">Хотите быть в курсе обновлений программ? Подпишитесь на рассылку обновлений по электронной почте.</div>
+                  <div class="n_site">
+                    <input type="text" name="email" id="textfield2" style="border:1px solid #e4e9ef; font-size:11px; color:#5a5a5a; height:13px; padding-left:3px; padding-right:3px; width:130px;" value="Введите Ваш e-mail" onfocus="this.value='';" onblur="if(!this.value) this.value='Введите Ваш e-mail';"/>
+                  </div>
+                  <div><input type="image" src="/img/2/but-subscribe.gif" alt="Подписаться" /></div>
+                </div>
+              </form>
+            
+
+</div>
+<div class="b_end-foot"><img src="/img/2/spacer.gif" height="1" width="1" alt=" " /></div>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+
+
+<div id="footer_a"><div id="footer_b"><div id="footer_c">
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td id="foot_left">
+        <div id="foot_links">
+          <table border="0" cellspacing="0" cellpadding="0">
+            <tr>
+              <td><a href="#">Карта сайта</a> | <a href="http://www.oszone.net/8341/advert/">Реклама на сайте</a> |&nbsp;</td>
+              <td><a href="/rss/new-soft.xml"><img src="/img/2/rss-big.gif" alt="RSS" width="27" height="13" border="0" /></a></td>
+            </tr>
+          </table>
+        </div>
+        <div>&copy; OSzone.net 2001-
+<script language="JavaScript" type="text/javascript">
+var d = new Date();
+document.write(d.getFullYear());
+</script>. С вопросами по содержанию сайта обращайтесь к <a href="/support/">администратору</a>.</div>
+      </td>
+      <td id="banners">
+<a href="http://top100.rambler.ru/top100/"><img src="http://counter.rambler.ru/top100.cnt?719810" alt="Rambler's Top100" width="1" height="1" border="0"></a>
+<script language="JavaScript" type="text/javascript"><!--
+d=document;
+var a='';
+a+=';r='+escape(d.referrer);
+js=10;
+--></script><script language="JavaScript1.1" type="text/javascript"><!--
+a+=';j='+navigator.javaEnabled();
+js=11;
+--></script><script language="JavaScript1.2" type="text/javascript"><!--
+s=screen;
+a+=';s='+s.width+'*'+s.height;
+a+=';d='+(s.colorDepth?s.colorDepth:s.pixelDepth);
+js=12;
+--></script><script language="JavaScript1.3" type="text/javascript"><!--
+js=13;
+--></script><script language="JavaScript" type="text/javascript"><!--
+d.write('<a href="http://top.mail.ru/jump?from=76804"'+' target=_top><img src="http://dc.c2.b1.a0.top.mail.ru/counter?js=na;id=76804;t=211;js='+js+a+';rand='+Math.random()+'" alt="Рейтинг@Mail.ru"'+' border=0 height=31 width=88/><\/a>');
+if( 11 < js) d.write('<'+'!- - ');
+--></script>
+<script language="JavaScript" type="text/javascript"><!--if( 11 < js ) d.write('- -'+'>');--></script><noscript><a target="_top" href="http://top.mail.ru/jump?from=909782"><img src="http://top.list.ru/counter?js=na;id=909782;t=57" border="0" height="31" width="88" alt="Рейтинг@Mail.ru"></a></noscript><script language="JavaScript"><!--
+document.write('<a href="http://www.liveinternet.ru/click" '+'target=_blank><img src="http://counter.yadro.ru/hit?t52.6;r'+escape(document.referrer)+((typeof(screen)=='undefined')?'':';s'+screen.width+'*'+screen.height+'*'+(screen.colorDepth?screen.colorDepth:screen.pixelDepth))+';u'+escape(document.URL)+';'+Math.random()+'" title="liveinternet.ru: показано число просмотров и посетителей за 24 часа" '+'border=0 width=88 height=31></a>');
+--></script><a href="http://top100.rambler.ru/top100/"><img src="http://top100-images.rambler.ru/top100/banner-88x31-rambler-blue.gif" alt="Rambler's Top100" width="88" height="31" border="0"></a>
+<script type="text/javascript" src="http://mg.dt00.net/js/s/o/soft.oszone.net.i1.js" charset="windows-1251"></script>
+      </td>
+      <td id="professor">
+        <a href="http://www.catedratico.ru" title="Professor. Создание сайтов. Веб-дизайн" target="_blank"><img src="/img/2/spacer.gif" alt="Professor" width="182" height="33" border="0" /></a><br />
+        <div style="margin: 8px 0 5px 5px;"><a href="http://webdev.in/">Разработка сайта</a> &mdash; <a href="http://webdev.in/">webdev.in</a></div>
+      </td>
+    </tr>
+  </table>
+</div></div></div>
+<script type="text/javascript" src="http://mg.dt00.net/js/t/o/topsoftzone.ru.i1.js" charset="windows-1251"></script>
+</body>
+</html>
